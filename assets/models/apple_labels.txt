@@ -1,0 +1,4 @@
+0 Apple Black Rot
+1 Apple Scab
+2 Cedar Apple Rust
+3 Apple Healthy
